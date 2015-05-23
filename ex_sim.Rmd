@@ -1,14 +1,4 @@
-
----
-title: "Exponential Simulation"
-date: "April 13, 2015"
-output:
-  html_document:
-    theme: cerulean
-  pdf_document: default
-  word_document: default
----
-
+## Exponential Simulation
 
 The following example make use of simulations to gather insight and investigate
 the exponential probability distribution. This example simulates exponential
